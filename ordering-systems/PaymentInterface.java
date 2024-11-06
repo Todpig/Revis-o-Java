@@ -1,0 +1,5 @@
+
+interface PaymentInterface {
+
+    boolean processPayment();
+}
